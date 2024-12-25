@@ -4,5 +4,5 @@
 ## Notes-ruRU: Сортирует и складывает ваши предметы.
 ## Author: shirsig
 ## Dependencies: SortBags
-## SavedVariablesPerCharacter: Cleanup
+## SavedVariables: Cleanup
 Cleanup.lua
